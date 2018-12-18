@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 #define MAXN 10
-using namespace std;
+using namespace std; 
 
 int vis[MAXN][MAXN];
 int mov[8][2] = {{-2,1},{-2,-1},{2,-1},{2,1},{1,2},{1,-2},{-1,2},{-1,-2}};
